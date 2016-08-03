@@ -2,20 +2,11 @@ html{
   font-family: sans-serif;
 }
 
-h2.intro {
-  width: 75%;
-  font-weight: bold;
-  color: blue;
-}
 
-p.intro {
+.intro {
   width: 50%;
-  font-style: italic;
-}
-
-img.intro {
-  margin: auto;
-    width: 50%;
     border: 3px solid green;
     padding: 10px;
+    color: blue;
+    font-style: italic;
 }
