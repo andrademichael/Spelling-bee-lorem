@@ -1,0 +1,19 @@
+html{
+  font-family: sans-serif;
+}
+
+h2.intro {
+  width: 75%;
+  font-weight: bold;
+  color: blue;
+}
+
+p.intro {
+  width: 50%;
+  font-style: italic;
+}
+
+img.intro {
+  margin-left: auto;
+   margin-right: auto;
+}
